@@ -1,9 +1,6 @@
 /**
  * Classe che rappresenta un conto bancario con operazioni di base.
  * Gestisce il numero di conto, il saldo e le operazioni di deposito e prelievo.
- * 
- * @author Boolean Course
- * @version 1.0
  */
 public class ContoBancario {
     

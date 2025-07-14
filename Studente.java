@@ -2,9 +2,6 @@
  * Classe che rappresenta uno studente con le sue informazioni principali.
  * Questa classe implementa gli attributi base di uno studente e fornisce
  * metodi per accedere e modificare tali informazioni.
- * 
- * @author Boolean Course
- * @version 1.0
  */
 public class Studente {
     

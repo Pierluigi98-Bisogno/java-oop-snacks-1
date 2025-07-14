@@ -1,9 +1,6 @@
 /**
  * Classe di test per dimostrare il funzionamento della classe ContoBancario.
  * Esegue operazioni di deposito, prelievo e visualizzazione del saldo.
- * 
- * @author Boolean Course
- * @version 1.0
  */
 public class TestContoBancario {
     
